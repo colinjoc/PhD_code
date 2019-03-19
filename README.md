@@ -6,6 +6,5 @@ Added:
 static_nwn: A well commmented code that highlights how nanowire networks are simulated and their electrical properties calculated. Check out my thesis for more info.
 
 To Add:
-Effective Medium Theory: In a seperate repo, want to merge it to this.
 Memristive NWNs: looking for some decently commented code.
 Capacitive NWNs: looking for some decently commented code.
