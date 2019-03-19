@@ -7,5 +7,4 @@ static_nwn: A well commmented code that highlights how nanowire networks are sim
 
 Multi terminal memristive NWNs: code to generate multi-terminal memristive networks, plot them and perform numerical simulations with them.
 
-To Add:
-Capacitive NWNs: looking for some decently commented code.
+Capacitive nanowire networks
